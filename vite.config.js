@@ -62,8 +62,8 @@ export default ({
         ],
       },
       manifest: {
-        "name": "無名の主页",
-        "short_name": "無名の主页",
+        "name": "夏天の主页",
+        "short_name": "夏天の主页",
         "description": "一个默默无闻的主页",
         "display": "standalone",
         "start_url": "/",
